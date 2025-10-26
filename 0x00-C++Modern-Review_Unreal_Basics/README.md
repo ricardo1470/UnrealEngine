@@ -4,6 +4,39 @@
 **Requisito:** C++11 o superior
 
 ---
+## 📋 Contenido
+
+Este proyecto demuestra:
+- `std::unique_ptr` - Propiedad exclusiva
+- `std::shared_ptr` - Propiedad compartida
+- `std::weak_ptr` - Referencias no propietarias
+- `std::enable_shared_from_this` - Auto-referencia segura
+
+## 🏗️ Estructura del Proyecto
+
+```
+.
+├── include/          # Headers públicos
+│   ├── Weapon.h
+│   ├── Texture.h
+│   ├── Material.h
+│   ├── Enemy.h
+│   └── Player.h
+├── src/              # Implementaciones
+│   ├── main.cpp
+│   ├── Weapon.cpp
+│   ├── Texture.cpp
+│   ├── Material.cpp
+│   ├── Enemy.cpp
+│   └── Player.cpp
+├── build/            # Archivos de compilación
+├── bin/              # Ejecutable final
+├── CMakeLists.txt    # Sistema de build CMake
+├── Makefile          # Makefile alternativo
+└── README.md         # Este archivo## 📋 Contenido
+```
+
+---
 
 ## 🚀 Introducción
 
