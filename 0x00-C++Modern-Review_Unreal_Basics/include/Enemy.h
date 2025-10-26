@@ -2,7 +2,7 @@
 #define ENEMY_H
 
 #include <memory>
-
+#include <iostream>
 /**
  * @brief Enemy class demonstrating enable_shared_from_this
  * Allows creating shared_ptr to itself safely

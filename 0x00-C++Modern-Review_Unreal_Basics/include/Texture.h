@@ -2,6 +2,7 @@
 #define TEXTURE_H
 
 #include <string>
+#include <iostream>
 
 /**
  * @brief Texture class demonstrating shared_ptr

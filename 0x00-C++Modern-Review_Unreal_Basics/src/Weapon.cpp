@@ -1,5 +1,4 @@
 #include "Weapon.h"
-#include <iostream>
 
 Weapon::~Weapon() {
     std::cout << "Weapon destroyed\n";

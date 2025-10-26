@@ -1,5 +1,4 @@
 #include "Enemy.h"
-#include <iostream>
 
 Enemy::Enemy() : health_(100) {
     std::cout << "Enemy created with " << health_ << " health\n";

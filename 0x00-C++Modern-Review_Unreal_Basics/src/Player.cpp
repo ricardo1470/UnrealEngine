@@ -1,6 +1,5 @@
 #include "Player.h"
 #include "Enemy.h"
-#include <iostream>
 
 void Player::SetTarget(std::shared_ptr<Enemy> enemy) {
     target_ = enemy;

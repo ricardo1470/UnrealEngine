@@ -2,6 +2,7 @@
 #define MATERIAL_H
 
 #include <memory>
+#include <iostream>
 
 class Texture;
 

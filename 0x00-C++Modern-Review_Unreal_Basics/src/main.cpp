@@ -3,7 +3,6 @@
 #include "Material.h"
 #include "Enemy.h"
 #include "Player.h"
-#include <iostream>
 
 /**
  * @brief Main function demonstrating smart pointer usage

@@ -3,6 +3,7 @@
 
 #include <memory>
 #include <string>
+#include <iostream>
 
 /**
  * @brief Abstract base class for weapons
